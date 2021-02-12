@@ -1,0 +1,39 @@
+body {
+  width: 45%;
+}
+
+h1 {
+  color: white;
+  background-color: rgb(163, 43, 46);
+  height: 40px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+img {
+  margin-bottom: 10px;
+  width: 98%;
+}
+
+p {
+  font-size: 18px;
+}
+
+.letter {
+  color: rgb(59, 115, 251);
+}
+
+div img {
+  width: 10%;
+  border: dashed black;
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 25px;
+  margin-top: 40px;
+  font-size: 20px;
+}
