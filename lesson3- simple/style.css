@@ -23,6 +23,11 @@ p {
   color: rgb(59, 115, 251);
 }
 
+div {
+  display: flex;
+  justify-content: center;
+}
+
 div img {
   width: 10%;
   border: dashed black;
