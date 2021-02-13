@@ -10,18 +10,9 @@ header {
 
 div {
   background-color: black;
+  display: flex;
+  justify-content: space-around;
 }
-
-figure {
-  text-align: center;
-  display: inline-block;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* figure img {
-  justify-content: center;
-} */
 
 main {
   display: inline-flex;
